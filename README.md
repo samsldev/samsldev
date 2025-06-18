@@ -36,3 +36,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsldev&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsldev&layout=compact&theme=dark)
+
+---
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/overview?username=samsldev&theme=dark)
+
