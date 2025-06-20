@@ -27,9 +27,7 @@
 | Job Name                     | Roles & Responsibilities               |
 |------------------------------|----------------------------------------|
 | [ZeniAssets](https://…)       | Senior Software Engineer               |
-| [Empresa B](https://…)       | Tech Lead – Mobile & Cloud            |
-| [Empresa C](https://…)       | Security Architect                     |
-| [Empresa D](https://…)       | CTO / Strategy & Product Planning      |
+| [BrasilCraft](https://…)       | Senior Minecraft Bedrock Developer            |
 
 ---
 
