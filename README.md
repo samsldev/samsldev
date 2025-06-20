@@ -34,8 +34,8 @@
 ## ▾ My Open Source Projects
 | 📦 Project                         | ⭐ Stars | 📚 Forks | 🐛 Issues | 🔃 PRs    |
 |-----------------------------------|---------|----------|-----------|-----------|
-| [repo-um](https://github.com/…)   | ![stars](https://img.shields.io/github/stars/SEU_USERNAME/repo-um?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/SEU_USERNAME/repo-um?style=flat) | ![issues](https://img.shields.io/github/issues/SEU_USERNAME/repo-um?style=flat) | ![prs](https://img.shields.io/github/issues-pr/SEU_USERNAME/repo-um?style=flat) |
-| [repo-dois](https://github.com/…) | ![stars](https://img.shields.io/github/stars/SEU_USERNAME/repo-dois?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/SEU_USERNAME/repo-dois?style=flat) | ![issues](https://img.shields.io/github/issues/SEU_USERNAME/repo-dois?style=flat) | ![prs](https://img.shields.io/github/issues-pr/SEU_USERNAME/repo-dois?style=flat) |
+| [repo-um](https://github.com/…)   | ![stars](https://img.shields.io/github/stars/samsldev/repo-um?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/repo-um?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/repo-um?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/repo-um?style=flat) |
+| [repo-dois](https://github.com/…) | ![stars](https://img.shields.io/github/stars/samsldev/repo-dois?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/repo-dois?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/repo-dois?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/repo-dois?style=flat) |
 
 ---
 
