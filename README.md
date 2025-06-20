@@ -23,6 +23,18 @@
 
 ---
 
+## ▾ My Stack
+| Methodology & Techniques            | Languages & Frameworks                                     |
+|-------------------------------------|------------------------------------------------------------|
+| Agile · Scrum · Kanban · CI/CD · DevOps | Java · Kotlin · Swift · JavaScript · TypeScript · Python · PHP · Ruby |
+| Security (OWASP · Pentest · Crypto) | React · Vue · Svelte · Node.js · Spring Boot · Django       |
+
+| Extensions, Apps & Tools       | Platforms & Infra                                                |
+|--------------------------------|------------------------------------------------------------------|
+| Docker · Insomnia · Git · Fastlane · TestFlight | AWS · Google Cloud · Azure · Kubernetes · GitHub Actions |
+
+---
+
 ## 🤝 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samsldev)  
