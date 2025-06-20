@@ -34,8 +34,8 @@
 ## ▾ My Open Source Projects
 | 📦 Project                         | ⭐ Stars | 📚 Forks | 🐛 Issues | 🔃 PRs    |
 |-----------------------------------|---------|----------|-----------|-----------|
-| [NAU03219](https://github.com/…)   | ![stars](https://img.shields.io/github/stars/samsldev/NAU03219?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/NAU03219?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/NAU03219?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/NAU03219?style=flat) |
-| [09WJ19S9AN901N4](https://github.com/…) | ![stars](https://img.shields.io/github/stars/samsldev/09WJ19S9AN901N4?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/09WJ19S9AN901N4?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/09WJ19S9AN901N4?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/09WJ19S9AN901N4?style=flat) |
+| [NAU03219](https://github.com/samsldev/NAU03219)   | ![stars](https://img.shields.io/github/stars/samsldev/NAU03219?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/NAU03219?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/NAU03219?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/NAU03219?style=flat) |
+| [09WJ19S9AN901N4](https://github.com/samsldev/09WJ19S9AN901N4) | ![stars](https://img.shields.io/github/stars/samsldev/09WJ19S9AN901N4?style=flat&label=&logo=github) | ![forks](https://img.shields.io/github/forks/samsldev/09WJ19S9AN901N4?style=flat) | ![issues](https://img.shields.io/github/issues/samsldev/09WJ19S9AN901N4?style=flat) | ![prs](https://img.shields.io/github/issues-pr/samsldev/09WJ19S9AN901N4?style=flat) |
 
 ---
 
